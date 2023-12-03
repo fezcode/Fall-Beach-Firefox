@@ -1,0 +1,33 @@
+{
+    "manifest_version": 2,
+    "version": "1.1",
+    "name": "Fall Beach",
+    "author": "Fezcode",
+    "theme": {
+        "images": {
+            "additional_backgrounds": [
+                "images/bg-012-1e971c5fbb8dec3acbd76dd6c6819de9.svg"
+            ]
+        },
+        "properties": {
+            "additional_backgrounds_alignment": [
+                "top"
+            ],
+            "additional_backgrounds_tiling": [
+                "repeat"
+            ]
+        },
+        "colors": {
+            "toolbar": "rgb(153, 152, 147)",
+            "toolbar_text": "rgb(255, 249, 236)",
+            "frame": "rgb(80, 90, 92)",
+            "tab_background_text": "rgb(255, 249, 236)",
+            "toolbar_field": "rgb(153, 152, 147)",
+            "toolbar_field_text": "rgb(247, 229, 181)",
+            "tab_line": "rgb(206, 227, 237)",
+            "popup": "rgb(255, 249, 236)",
+            "popup_text": "rgb(80, 90, 92)",
+            "tab_loading": "rgb(206, 227, 237)"
+        }
+    }
+}
